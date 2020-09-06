@@ -29,7 +29,9 @@ Syntax highlighted code block
 ```
 
 
-[week__01](https://editor.p5js.org/phanman/present/bmr3uVzmw)
+[week_01 code in github](https://github.com/phanman71/jons_github/blob/week01/Jon_01_selfie/sketch.js)
+
+[week_01 code in p5 js] (https://editor.p5js.org/phanman/sketches/Hdo3V8C0X)
 
 <iframe style="width: 1000px; height: 1000px; overflow: hidden;"  scrolling="no" frameborder="0"
 src="https://editor.p5js.org/phanman/embed/bmr3uVzmw">
