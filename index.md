@@ -37,8 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### important links for me
-[editing page] https://github.com/phanman71/jons_github/edit/gh-pages/index.md
 
 [page link] https://phanman71.github.io/jons_github/
 
-[Jekyll](https://jekyllrb.com/)
+
