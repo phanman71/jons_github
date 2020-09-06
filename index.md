@@ -31,7 +31,7 @@ Syntax highlighted code block
 
 ```markdown
 
-<iframe src="https://editor.p5js.org/phanman/embed/bmr3uVzmw"></iframe>
+https://editor.p5js.org/phanman/present/bmr3uVzmw
 
 ```
 
