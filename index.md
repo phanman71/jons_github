@@ -32,7 +32,7 @@ After I figured that out, the rest was cake... more like layering cake that is! 
 
 [week_01 code in github](https://github.com/phanman71/jons_github/blob/week01/Jon_01_selfie/sketch.js)
 
-[week_01 code in p5 js] (https://editor.p5js.org/phanman/sketches/Hdo3V8C0X)
+[week_01 code in p5 js](https://editor.p5js.org/phanman/sketches/Hdo3V8C0X)
 
 The last part of the puzzle was to figure out how to use post up my work on a blog, I went with github so I had to learn the interface and all that, what a repository is, how to make a website using it, how to embbed my code, throw in pictures, ect... which took a lot more time that I thought but here it is!
 
