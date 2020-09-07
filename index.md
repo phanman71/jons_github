@@ -7,7 +7,7 @@ So why am I making a website? Well I just started grad school and I've gotta mak
 ### Creative Coding Week 1
 
 
-![https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.01.01%20PM.png](src)
+![https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.01.01%20PM.png](https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.01.01%20PM.png)
 
 
 
