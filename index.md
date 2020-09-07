@@ -16,12 +16,11 @@ For the first homework assignment I decided to go with the selfie. I figured tha
 
 I later figured out that I could import an image into p5js after some research to trace over. I found out that the coordinate system in webgl starts in the middle which means a negative value is needed, which then meant that I couldn't use the mouse over function I learned in class. Thankfully I found out about the translate function which let me shift things -width/2, -height/2 to get things going with less guess work.
 
-```markdown
 
+```markdown
 //get curve vertex locations
 function mousePressed() {
   console.log('curveVertex(' + mouseX + ',' + mouseY + ');');
-  
 ```
 
 Things got a little pickly with so much translating so I also learned about the push and pop fuctions in the reference library whcih is a workflow I think works pretty nicely. I started with simple shapes but it got tedious with not so super outcomes, so I figured that I should try to do it like how I would in photoshop with curves and vertex points, luckily there was the begin shape function. It worked pretty good at first, I tried just drawing my shirt but for some reason the vertex didnt work very well whenever I made shapes that included anything that went positive x and then positive y like a backwards L, some sort of cross over would happen. Luckily I found out about curveVertex which gave me more control. Even so the process was super tedious so I came up with an awesome idea to turn the console mouse position to write the code for me. 
