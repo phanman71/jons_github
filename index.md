@@ -27,6 +27,7 @@ Things got a little pickly with so much translating so I also learned about the 
 
 ![hexagon](https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.11.44%20PM.png)
 
+https://www.quora.com/How-can-you-find-the-coordinates-in-a-hexagon
 
 After I figured that out, the rest was cake... more like layering cake that is! All I had to do then was click around and trace my simplified photoshop selfie. I found out that for simple or small shapes, I ended up using the regular vertex points. I decided that I wanted to decorate my drawing with some 3D shapes to get used to the coordinates but also since I went through all the trouble of using WEBGL. I created an invisible shape near the origin to rotate in the Y which I used to help visualize the pivot which I threw in a bunch of other shapes rotating around my head, at first I had 4 but that wasnt enough and then I had 8 but that got too cluttered so i figured out the coordinates with some simple math from google.
 
