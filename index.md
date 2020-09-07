@@ -6,8 +6,19 @@ So why am I making a website? Well I just started grad school and I've gotta mak
 
 ### Creative Coding Week 1
 
+During my first class in graduate school at NYU in the Intergrated Digital Media student I learned about p5js and how to use it for the first time. During the lecture and exploring the resources, I learned about 3D objects and how I had to use WEBGL, it was pretty cool, at the same time I also learned about animation in p5js. This is what I played around with and ended up with by the end of class:
 
-![imagetest](https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.01.01%20PM.png)
+![firstcode](https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.02.55%20PM.png)
+
+For the first homework assignment I decided to go with the selfie. I figured that good starting point would be to sketch a selfie and figure out basic shapes to make myself. I then decided that it would make more sense to just take a real selfie to base it off of, leveraging what I know I decided to get a simple version of myself by running some photoshop filters. 
+
+![photoshop](https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.01.01%20PM.png)
+
+
+I 
+![hexagon](https://raw.githubusercontent.com/phanman71/jons_github/week01/Screen%20Shot%202020-09-06%20at%209.11.44%20PM.png)
+
+
 
 
 
