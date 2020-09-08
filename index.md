@@ -41,3 +41,14 @@ The last part of the puzzle was to figure out how to use post up my work on a bl
 src="https://editor.p5js.org/phanman/embed/bmr3uVzmw">
 </iframe>
 
+
+### Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell - response 
+
+I thought this article was pretty interesting, the part that stuck out to me the most was when he was describing art made by programs started to look the same as the “Photoshop Effect”.  From my experience as a 3D artist, we sort of have this problem a lot. Most people don’t think too much about this, but when you make assets in 3D, it always comes out very clean and it looks very “CGI” as most people would put it. And as Campbell said, the computer only follows direct functions and doesn’t know how to make something look truly real, unless we’re talking machine learning, but that’s a whole other topic.  
+
+There is a lot of work put in to make things look dirty, flawed, or damaged on purpose to make it look more realistic. A good example would be starting with a programmed procedural material with realistic physical attributes. By default, this will make anyone else who uses this material have the same looking thing, even if there are some sliders to edit it. This issue comes in when an artist uses a template and doesn’t iterate enough. Too random and it’s not realistic, not random enough and it looks fake. 
+
+If you have a skilled enough artist, they should be able to see the things the computer made that makes it look computer-generated and hide all the cliques and keep the illusion. It’s the professional’s eyes versus everyone else. Fun fact, the gold material they designed for “the one ring” from Lord of the Rings was also used as a starting point for Iron Man’s gold titanium alloy. 
+
+The idea that using computers to make art and things looking the same can be true but I like to think of it on the other spectrum that when they hit that point that their work looks like everyone else's' because the technology lets them jump there, they can go even further beyond with visuals they wouldn’t have been able to accomplish without the software. 
+
